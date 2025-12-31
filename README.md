@@ -38,7 +38,7 @@
 
 ---
 
-## 📊 GitHub Stats (Light Mode Friendly)
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vyrabot&show_icons=true&theme=default" />
