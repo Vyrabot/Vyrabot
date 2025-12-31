@@ -4,7 +4,7 @@
 
 <div align="center">
   <!-- Animated Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Chamreun+Vira;Full+Stack+Developer;Java+Spring+Boot+Expert;React+%26+Next.js+Specialist;Clean+Code+Advocate" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Chamreun+Vira;Full+Stack+Developer;Java+Spring+Boot;React+%26+Next.js+Specialist;Clean+Code+Advocate" />
 </div>
 
 ---
